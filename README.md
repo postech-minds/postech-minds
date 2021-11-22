@@ -45,4 +45,6 @@ In the repository, go to `Pull requests` tab, click `New pull request`, write so
 ## Hands-on Tutorials
 | Keywords        | Title               | Author         | Language |
 |-----------------|---------------------|----------------|----------|
-| TDA, Giotto-tda | [Introduction to TDA](./tutorials/[GTDA_TUTO]01-Introduction_to_TDA.ipynb) | Seong Heon Lee | KOR      |
+| `TDA`, `Giotto-tda` | [Introduction to TDA](./tutorials/[GTDA_TUTO]01-Introduction_to_TDA.ipynb) | Seong Heon Lee | KOR      |
+| `Deep learning`, `MLP`, `CNN`, `Pytorch` | [Pytorch tutorial on MNIST](./tutorials/[Pytorch_TUTO]MNIST.ipynb) | Seong Heon Lee | ENG      |
+
